@@ -71,7 +71,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Veri Saklama Süresi',
     sec12Text1: 'Veriler, siz uygulamayı silene veya hesabınızı kapatana kadar cihazınızda kalmaya devam eder.',
     sec13Title: '13. İletişim',
-    sec13Text1: 'Gizliliğinizle ilgili sorularınız için privacy@modonare.com adresinden bizimle iletişime geçebilirsiniz.',
+    sec13Text1: 'Gizliliğinizle ilgili sorularınız için halilibrahimkilicarslan@gmail.com adresinden bizimle iletişime geçebilirsiniz.',
     rights: 'Tüm hakları saklıdır.'
   },
   en: {
@@ -108,7 +108,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Data Retention',
     sec12Text1: 'Data persists on your device until you delete the app or use the Delete Account feature.',
     sec13Title: '13. Contact Us',
-    sec13Text1: 'For questions about your privacy, contact us at privacy@modonare.com.',
+    sec13Text1: 'For questions about your privacy, contact us at halilibrahimkilicarslan@gmail.com.',
     rights: 'All rights reserved.'
   },
   ar: {
@@ -145,7 +145,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. الاحتفاظ بالبيانات',
     sec12Text1: 'تظل البيانات على جهازك حتى تقوم بحذف التطبيق أو استخدام ميزة حذف الحساب.',
     sec13Title: '13. الاتصال بنا',
-    sec13Text1: 'لأي أسئلة تتعلق بخصوصيتك، اتصل بنا على privacy@modonare.com.',
+    sec13Text1: 'لأي أسئلة تتعلق بخصوصيتك، اتصل بنا على halilibrahimkilicarslan@gmail.com.',
     rights: 'جميع الحقوق محفوظة.'
   },
   az: {
@@ -182,7 +182,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Məlumatların Saxlanma Müddəti',
     sec12Text1: 'Məlumatlar siz tətbiqi silənə və ya hesabınızı bağlayana qədər cihazınızda qalmağa davam edir.',
     sec13Title: '13. Bizimlə Əlaqə',
-    sec13Text1: 'Məxfiliyinizlə bağlı suallarınız üçün privacy@modonare.com vasitəsilə bizimlə əlaqə saxlaya bilərsiniz.',
+    sec13Text1: 'Məxfiliyinizlə bağlı suallarınız üçün halilibrahimkilicarslan@gmail.com vasitəsilə bizimlə əlaqə saxlaya bilərsiniz.',
     rights: 'Bütün hüquqlar qorunur.'
   },
   bn: {
@@ -219,7 +219,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '১২. ডেটা ধারণ',
     sec12Text1: 'আপনি অ্যাপটি মুছে ফেলা বা অ্যাকাউন্ট মুছুন বৈশিষ্ট্য ব্যবহার না করা পর্যন্ত ডেটা আপনার ডিভাইসে থেকে যায়।',
     sec13Title: '১৩. আমাদের সাথে যোগাযোগ করুন',
-    sec13Text1: 'আপনার গোপনীয়তা সম্পর্কে প্রশ্নের জন্য, privacy@modonare.com এ আমাদের সাথে যোগাযোগ করুন।',
+    sec13Text1: 'আপনার গোপনীয়তা সম্পর্কে প্রশ্নের জন্য, halilibrahimkilicarslan@gmail.com এ আমাদের সাথে যোগাযোগ করুন।',
     rights: 'সর্বস্বত্ব সংরক্ষিত।'
   },
   bg: {
@@ -256,7 +256,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Запазване на данни',
     sec12Text1: 'Данните остават на вашето устройство, докато не изтриете приложението или не използвате функцията за изтриване на акаунт.',
     sec13Title: '13. Свържете се с нас',
-    sec13Text1: 'За въпроси относно вашата поверителност, свържете се с нас на privacy@modonare.com.',
+    sec13Text1: 'За въпроси относно вашата поверителност, свържете се с нас на halilibrahimkilicarslan@gmail.com.',
     rights: 'Всички права запазени.'
   },
   zh: {
@@ -293,7 +293,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. 数据保留期限',
     sec12Text1: '数据将一直保留在您的设备上，直到您删除应用或使用“删除账户”功能。',
     sec13Title: '13. 联系我们',
-    sec13Text1: '如有关于隐私的疑问，请联系我们：privacy@modonare.com。',
+    sec13Text1: '如有关于隐私的疑问，请联系我们：halilibrahimkilicarslan@gmail.com。',
     rights: '版权所有。'
   },
   hr: {
@@ -330,7 +330,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Zadržavanje podataka',
     sec12Text1: 'Podaci ostaju na vašem uređaju dok ne izbrišete aplikaciju ili upotrijebite značajku brisanja računa.',
     sec13Title: '13. Kontaktirajte nas',
-    sec13Text1: 'Za sva pitanja u vezi s vašom privatnošću, kontaktirajte nas na privacy@modonare.com.',
+    sec13Text1: 'Za sva pitanja u vezi s vašom privatnošću, kontaktirajte nas na halilibrahimkilicarslan@gmail.com.',
     rights: 'Sva prava pridržana.'
   },
   cs: {
@@ -367,7 +367,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Uchovávání dat',
     sec12Text1: 'Data zůstávají na vašem zařízení, dokud nesmažete aplikaci nebo nepoužijete funkci smazání účtu.',
     sec13Title: '13. Kontaktujte nás',
-    sec13Text1: 'V případě dotazů týkajících se vašeho soukromí nás kontaktujte na privacy@modonare.com.',
+    sec13Text1: 'V případě dotazů týkajících se vašeho soukromí nás kontaktujte na halilibrahimkilicarslan@gmail.com.',
     rights: 'Všechna práva vyhrazena.'
   },
   da: {
@@ -404,7 +404,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Dataopbevaringsperiode',
     sec12Text1: 'Data forbliver på din enhed, indtil du sletter appen eller bruger funktionen Slet konto.',
     sec13Title: '13. Kontakt os',
-    sec13Text1: 'For spørgsmål vedrørende dit privatliv, kontakt os på privacy@modonare.com.',
+    sec13Text1: 'For spørgsmål vedrørende dit privatliv, kontakt os på halilibrahimkilicarslan@gmail.com.',
     rights: 'Alle rettigheder forbeholdes.'
   },
   nl: {
@@ -441,7 +441,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Gegevensbewaring',
     sec12Text1: 'Gegevens blijven op uw apparaat staan totdat u de app verwijdert of de functie Account verwijderen gebruikt.',
     sec13Title: '13. Neem contact met ons op',
-    sec13Text1: 'Neem voor vragen over uw privacy contact met ons op via privacy@modonare.com.',
+    sec13Text1: 'Neem voor vragen over uw privacy contact met ons op via halilibrahimkilicarslan@gmail.com.',
     rights: 'Alle rechten voorbehouden.'
   },
   fil: {
@@ -478,7 +478,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Pagpapanatili ng Data',
     sec12Text1: 'Mananatili ang data sa iyong device hanggang sa tanggalin mo ang app o gamitin ang tampok na Tanggalin ang Account.',
     sec13Title: '13. Makipag-ugnayan sa Amin',
-    sec13Text1: 'Para sa mga katanungan tungkol sa iyong privacy, makipag-ugnayan sa amin sa privacy@modonare.com.',
+    sec13Text1: 'Para sa mga katanungan tungkol sa iyong privacy, makipag-ugnayan sa amin sa halilibrahimkilicarslan@gmail.com.',
     rights: 'Lahat ng karapatan ay rezubado.'
   },
   fi: {
@@ -515,7 +515,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Tietojen säilytysaika',
     sec12Text1: 'Tiedot säilyvät laitteellasi, kunnes poistat sovelluksen tai käytät Poista tili -toimintoa.',
     sec13Title: '13. Ota yhteyttä',
-    sec13Text1: 'Jos sinulla on kysyttävää yksityisyydestäsi, ota meihin yhteyttä osoitteeseen privacy@modonare.com.',
+    sec13Text1: 'Jos sinulla on kysyttävää yksityisyydestäsi, ota meihin yhteyttä osoitteeseen halilibrahimkilicarslan@gmail.com.',
     rights: 'Kaikki oikeudet pidätetään.'
   },
   fr: {
@@ -552,7 +552,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Conservation des données',
     sec12Text1: 'Les données restent sur votre appareil jusqu\'à ce que vous supprimiez l\'application ou utilisiez la fonction Supprimer le compte.',
     sec13Title: '13. Nous contacter',
-    sec13Text1: 'Pour toute question relative à votre vie privée, contactez-nous à privacy@modonare.com.',
+    sec13Text1: 'Pour toute question relative à votre vie privée, contactez-nous à halilibrahimkilicarslan@gmail.com.',
     rights: 'Tous droits réservés.'
   },
   de: {
@@ -589,7 +589,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Aufbewahrung von Daten',
     sec12Text1: 'Die Daten verbleiben auf Ihrem Gerät, bis Sie die App löschen oder die Funktion Konto löschen verwenden.',
     sec13Title: '13. Kontaktieren Sie uns',
-    sec13Text1: 'Bei Fragen zu Ihrer Privatsphäre kontaktieren Sie uns bitte unter privacy@modonare.com.',
+    sec13Text1: 'Bei Fragen zu Ihrer Privatsphäre kontaktieren Sie uns bitte unter halilibrahimkilicarslan@gmail.com.',
     rights: 'Alle Rechte vorbehalten.'
   },
   el: {
@@ -626,7 +626,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Διατήρηση Δεδομένων',
     sec12Text1: 'Τα δεδομένα παραμένουν στη συσκευή σας έως ότου διαγράψετε την εφαρμογή ή χρησιμοποιήσετε τη δυνατότητα Διαγραφής Λογαριασμού.',
     sec13Title: '13. Επικοινωνήστε μαζί μας',
-    sec13Text1: 'Για ερωτήσεις σχετικά με το απόρρητό σας, επικοινωνήστε μαζί μας στο privacy@modonare.com.',
+    sec13Text1: 'Για ερωτήσεις σχετικά με το απόρρητό σας, επικοινωνήστε μαζί μας στο halilibrahimkilicarslan@gmail.com.',
     rights: 'Με την επιφύλαξη παντός δικαιώματος.'
   },
   he: {
@@ -663,7 +663,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. שמירת נתונים',
     sec12Text1: 'הנתונים נשארים במכשיר שלך עד שתמחק את האפליקציה או תשתמש בתכונת מחיקת החשבון.',
     sec13Title: '13. צור קשר',
-    sec13Text1: 'לכל שאלה בנוגע לפרטיות שלך, צור קשר בכתובת privacy@modonare.com.',
+    sec13Text1: 'לכל שאלה בנוגע לפרטיות שלך, צור קשר בכתובת halilibrahimkilicarslan@gmail.com.',
     rights: 'כל הזכויות שמورות.'
   },
   hi: {
@@ -700,7 +700,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. डेटा अवधारण अवधि',
     sec12Text1: 'डेटा आपके डिवाइस पर तब तक रहता है जब तक आप ऐप को हटा नहीं देते या खाता हटाएं सुविधा का उपयोग नहीं करते।',
     sec13Title: '13. हमसे संपर्क करें',
-    sec13Text1: 'आपकी गोपनीयता से संबंधित प्रश्नों के लिए, privacy@modonare.com पर हमसे संपर्क करें।',
+    sec13Text1: 'आपकी गोपनीयता से संबंधित प्रश्नों के लिए, halilibrahimkilicarslan@gmail.com पर हमसे संपर्क करें।',
     rights: 'सर्वाधिकार सुरक्षित।'
   },
   hu: {
@@ -737,7 +737,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Adatmegőrzési időszak',
     sec12Text1: 'Az adatok a készüléken maradnak mindaddig, amíg Ön nem törli az alkalmazást, vagy nem használja a Fiók törlése funkciót.',
     sec13Title: '13. Kapcsolat',
-    sec13Text1: 'Adatvédelmével kapcsolatos kérdéseivel forduljon hozzánk a privacy@modonare.com címen.',
+    sec13Text1: 'Adatvédelmével kapcsolatos kérdéseivel forduljon hozzánk a halilibrahimkilicarslan@gmail.com címen.',
     rights: 'Minden jog fenntartva.'
   },
   id: {
@@ -774,7 +774,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Periode Penyimpanan Data',
     sec12Text1: 'Data tetap berada di perangkat Anda hingga Anda menghapus aplikasi atau menggunakan fitur Hapus Akun.',
     sec13Title: '13. Hubungi Kami',
-    sec13Text1: 'Untuk pertanyaan mengenai privasi Anda, hubungi kami di privacy@modonare.com.',
+    sec13Text1: 'Untuk pertanyaan mengenai privasi Anda, hubungi kami di halilibrahimkilicarslan@gmail.com.',
     rights: 'Hak cipta dilindungi undang-undang.'
   },
   it: {
@@ -811,7 +811,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Periodo di conservazione dei dati',
     sec12Text1: 'I dati rimangono sul tuo dispositivo finché non elimini l\'app o utilizzi la funzione Elimina account.',
     sec13Title: '13. Contattaci',
-    sec13Text1: 'Per domande riguardanti la tua privacy, contattaci all\'indirizzo privacy@modonare.com.',
+    sec13Text1: 'Per domande riguardanti la tua privacy, contattaci all\'indirizzo halilibrahimkilicarslan@gmail.com.',
     rights: 'Tutti i diritti riservati.'
   },
   ja: {
@@ -848,7 +848,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. データの保持期間',
     sec12Text1: 'データは、アプリを削除するか「アカウント削除」機能を使用するまで、デバイスに保持されます。',
     sec13Title: '13. お問い合わせ',
-    sec13Text1: 'プライバシーに関するお問い合わせは、privacy@modonare.comまでご連絡ください。',
+    sec13Text1: 'プライバシーに関するお問い合わせは、halilibrahimkilicarslan@gmail.comまでご連絡ください。',
     rights: '無断転載を禁じます。'
   },
   kk: {
@@ -885,7 +885,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Деректерді сақтау мерзімі',
     sec12Text1: 'Деректер қолданбаны өшіргенше немесе тіркелгіні жою функциясын пайдаланғанша құрылғыңызда сақталады.',
     sec13Title: '13. Бізге хабарласыңыз',
-    sec13Text1: 'Құпиялылығыңызға қатысты сұрақтарыңыз болса, privacy@modonare.com мекенжайы бойынша хабарласыңыз.',
+    sec13Text1: 'Құпиялылығыңызға қатысты сұрақтарыңыз болса, halilibrahimkilicarslan@gmail.com мекенжайы бойынша хабарласыңыз.',
     rights: 'Барлық құқықтар қорғалған.'
   },
   ko: {
@@ -922,7 +922,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. 데이터 보유 기간',
     sec12Text1: '데이터는 앱을 삭제하거나 "계정 삭제" 기능을 사용할 때까지 기기에 보유됩니다.',
     sec13Title: '13. 문의처',
-    sec13Text1: '개인정보 보호에 관한 문의는 privacy@modonare.com으로 연락해 주시기 바랍니다.',
+    sec13Text1: '개인정보 보호에 관한 문의는 halilibrahimkilicarslan@gmail.com으로 연락해 주시기 바랍니다.',
     rights: '모든 권리 보유.'
   },
   ky: {
@@ -959,7 +959,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Дайындарды сактоо мөөнөтү',
     sec12Text1: 'Дайындар тиркемени өчүргөнгө же каттоо эсебин жок кылуу функциясын колдонгонго чейин түзмөгүңүздө сакталат.',
     sec13Title: '13. Биз менен байланышыңыз',
-    sec13Text1: 'Купуялуулугуңузга байланыштуу суроолоруңуз болсо, privacy@modonare.com дареги боюнча кайрылыңыз.',
+    sec13Text1: 'Купуялуулугуңузга байланыштуу суроолоруңуз болсо, halilibrahimkilicarslan@gmail.com дареги боюнча кайрылыңыз.',
     rights: 'Бардык укуктар корголгон.'
   },
   ms: {
@@ -996,7 +996,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Tempoh Penyimpanan Data',
     sec12Text1: 'Data kekal pada peranti anda sehingga anda memadamkan apl atau menggunakan ciri Padam Akaun.',
     sec13Title: '13. Hubungi Kami',
-    sec13Text1: 'Untuk soalan mengenai privasi anda, hubungi kami di privacy@modonare.com.',
+    sec13Text1: 'Untuk soalan mengenai privasi anda, hubungi kami di halilibrahimkilicarslan@gmail.com.',
     rights: 'Hak cipta terpelihara.'
   },
   no: {
@@ -1033,7 +1033,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Datalagringsperiode',
     sec12Text1: 'Data forblir på enheten din til du sletter appen eller bruker funksjonen Slett konto.',
     sec13Title: '13. Kontakt oss',
-    sec13Text1: 'For spørsmål angående ditt personvern, kontakt oss på privacy@modonare.com.',
+    sec13Text1: 'For spørsmål angående ditt personvern, kontakt oss på halilibrahimkilicarslan@gmail.com.',
     rights: 'Enerett.'
   },
   fa: {
@@ -1070,7 +1070,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '۱۲. مدت نگهداری داده‌ها',
     sec12Text1: 'داده‌ها در دستگاه شما باقی می‌مانند تا زمانی که برنامه را حذف کنید یا از ویژگی حذف حساب استفاده کنید.',
     sec13Title: '۱۳. تماس با ما',
-    sec13Text1: 'برای سوالات مربوط به حریم خصوصی خود، با ما در privacy@modonare.com تماس بگیرید.',
+    sec13Text1: 'برای سوالات مربوط به حریم خصوصی خود، با ما در halilibrahimkilicarslan@gmail.com تماس بگیرید.',
     rights: 'تمامی حقوق محفوظ است.'
   },
   pl: {
@@ -1107,7 +1107,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Okres przechowywania danych',
     sec12Text1: 'Dane pozostają na Twoim urządzeniu, dopóki nie usuniesz aplikacji lub nie skorzystasz z funkcji Usuń konto.',
     sec13Title: '13. Kontakt z nami',
-    sec13Text1: 'W przypadku pytań dotyczących prywatności prosimy o kontakt pod adresem privacy@modonare.com.',
+    sec13Text1: 'W przypadku pytań dotyczących prywatności prosimy o kontakt pod adresem halilibrahimkilicarslan@gmail.com.',
     rights: 'Wszelkie prawa zastrzeżone.'
   },
   pt: {
@@ -1144,7 +1144,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Período de Retenção de Dados',
     sec12Text1: 'Os dados permanecem no seu dispositivo até que apague a aplicação ou utilize a funcionalidade Apagar Conta.',
     sec13Title: '13. Contacte-nos',
-    sec13Text1: 'Para dúvidas relativas à sua privacidade, contacte-nos através do e-mail privacy@modonare.com.',
+    sec13Text1: 'Para dúvidas relativas à sua privacidade, contacte-nos através do e-mail halilibrahimkilicarslan@gmail.com.',
     rights: 'Todos os direitos reservados.'
   },
   pa: {
@@ -1181,7 +1181,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. ਡੇਟਾ ਰੱਖਣ ਦੀ ਮਿਆਦ',
     sec12Text1: 'ਡੇਟਾ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਤੇ ਉਦੋਂ ਤੱਕ ਰਹਿੰਦਾ ਹੈ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਐਪ ਨੂੰ ਮਿਟਾ ਨਹੀਂ ਦਿੰਦੇ ਜਾਂ ਖਾਤਾ ਮਿਟਾਓ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕਰਦੇ।',
     sec13Title: '13. ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ',
-    sec13Text1: 'ਤੁਹਾਡੀ ਪਰਦੇਦารੀ ਸੰਬੰਧੀ ਪ੍ਰਸ਼ਨਾਂ ਲਈ, privacy@modonare.com ਤੇ ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।',
+    sec13Text1: 'ਤੁਹਾਡੀ ਪਰਦੇਦารੀ ਸੰਬੰਧੀ ਪ੍ਰਸ਼ਨਾਂ ਲਈ, halilibrahimkilicarslan@gmail.com ਤੇ ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।',
     rights: 'ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।'
   },
   ro: {
@@ -1218,7 +1218,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Perioada de păstrare a datelor',
     sec12Text1: 'Datele rămân pe dispozitivul tău până când ștergi aplicația sau folosești funcția Ștergere cont.',
     sec13Title: '13. Contactează-ne',
-    sec13Text1: 'Pentru întrebări legate de confidențialitatea ta, contactează-ne la privacy@modonare.com.',
+    sec13Text1: 'Pentru întrebări legate de confidențialitatea ta, contactează-ne la halilibrahimkilicarslan@gmail.com.',
     rights: 'Toate drepturile rezervate.'
   },
   ru: {
@@ -1255,7 +1255,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Срок хранения данных',
     sec12Text1: 'Данные остаются на вашем устройстве до тех пор, пока вы не удалите приложение или не воспользуетесь функцией удаления учетной записи.',
     sec13Title: '13. Связаться с нами',
-    sec13Text1: 'По любым вопросам относительно вашей конфиденциальности обращайтесь к нам по адресу privacy@modonare.com.',
+    sec13Text1: 'По любым вопросам относительно вашей конфиденциальности обращайтесь к нам по адресу halilibrahimkilicarslan@gmail.com.',
     rights: 'Все права защищены.'
   },
   sr: {
@@ -1292,7 +1292,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Време задржавања података',
     sec12Text1: 'Подаци остају на вашем уређају док не избришете апликацију или употребите функцију брисања налога.',
     sec13Title: '13. Контактирајте нас',
-    sec13Text1: 'За сва питања у вези са вашом приватношћу, контактирајте нас на privacy@modonare.com.',
+    sec13Text1: 'За сва питања у вези са вашом приватношћу, контактирајте нас на halilibrahimkilicarslan@gmail.com.',
     rights: 'Сва права задржана.'
   },
   es: {
@@ -1329,7 +1329,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Periodo de retención de datos',
     sec12Text1: 'Los datos permanecen en tu dispositivo hasta que elimines la aplicación o utilices la función Eliminar cuenta.',
     sec13Title: '13. Contáctanos',
-    sec13Text1: 'Para preguntas con respecto a tu privacidad, contáctenos en privacy@modonare.com.',
+    sec13Text1: 'Para preguntas con respecto a tu privacidad, contáctenos en halilibrahimkilicarslan@gmail.com.',
     rights: 'Todos los derechos reservados.'
   },
   sw: {
@@ -1366,7 +1366,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Kipindi cha Kuhifadhi Data',
     sec12Text1: 'Data inabaki kwenye kifaa chako hadi ufute programu au utumie kipengele cha Futa Akaunti.',
     sec13Title: '13. Wasiliana Nasi',
-    sec13Text1: 'Kwa maswali yoyote kuhusu faragha yako, wasiliana nasi kwa privacy@modonare.com.',
+    sec13Text1: 'Kwa maswali yoyote kuhusu faragha yako, wasiliana nasi kwa halilibrahimkilicarslan@gmail.com.',
     rights: 'Haki zote zimehifadhiwa.'
   },
   sv: {
@@ -1403,7 +1403,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Lagringsperiod för data',
     sec12Text1: 'Data finns kvar på din enhet tills du raderar appen eller använder funktionen Ta bort konto.',
     sec13Title: '13. Kontakta oss',
-    sec13Text1: 'För frågor om din integritet, kontakta oss på privacy@modonare.com.',
+    sec13Text1: 'För frågor om din integritet, kontakta oss på halilibrahimkilicarslan@gmail.com.',
     rights: 'Alla rättigheter förbehållna.'
   },
   tg: {
@@ -1440,7 +1440,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Мӯҳлати нигоҳдории маълумот',
     sec12Text1: 'Маълумот дар дастгоҳи шумо мемонад, то даме ки шумо барномаро нест кунед ё хусусияти нест кардани ҳисобро истифода баред.',
     sec13Title: '13. Бо мо тамос гиред',
-    sec13Text1: 'Барои саволҳо оид ба махфияти шумо, бо мо дар privacy@modonare.com тамос гиред.',
+    sec13Text1: 'Барои саволҳо оид ба махфияти шумо, бо мо дар halilibrahimkilicarslan@gmail.com тамос гиред.',
     rights: 'Ҳамаи ҳуқуқҳо ҳифз шудаанд.'
   },
   th: {
@@ -1477,7 +1477,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. ระยะเวลาการเก็บรักษาข้อมูล',
     sec12Text1: 'ข้อมูลจะยังคงอยู่ในอุปกรณ์ของคุณจนกว่าคุณจะลบแอปออกหรือใช้ฟังก์ชันลบบัญชีผู้ใช้',
     sec13Title: '13. ติดต่อเรา',
-    sec13Text1: 'หากมีข้อสงสัยเกี่ยวกับความเป็นส่วนตัวของคุณ โปรดติดต่อเราที่ privacy@modonare.com',
+    sec13Text1: 'หากมีข้อสงสัยเกี่ยวกับความเป็นส่วนตัวของคุณ โปรดติดต่อเราที่ halilibrahimkilicarslan@gmail.com',
     rights: 'สงวนลิขสิทธิ์.'
   },
   tk: {
@@ -1514,7 +1514,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Maglumatlaryň Saklanyş Möhleti',
     sec12Text1: 'Maglumatlar programmany öçürýänçäňiz ýa-da hasabyňyzy öçürýänçäňiz enjamyňyzda galýar.',
     sec13Title: '13. Habarlaşmak',
-    sec13Text1: 'Gizliligiňiz baradaky soraglar üçin privacy@modonare.com salgysy arkaly habarlaşyp bilersiňiz.',
+    sec13Text1: 'Gizliligiňiz baradaky soraglar üçin halilibrahimkilicarslan@gmail.com salgysy arkaly habarlaşyp bilersiňiz.',
     rights: 'Ähli hukuklar goralan.'
   },
   uk: {
@@ -1551,7 +1551,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Термін зберігання даних',
     sec12Text1: 'Дані залишаються на вашому пристрої доти, доки ви не видалите додаток або не скористаєтеся функцією видалення облікового запису.',
     sec13Title: '13. Зв’язатися з нами',
-    sec13Text1: 'З будь-яких питань щодо вашої конфіденційності звертайтеся до нас за адресою privacy@modonare.com.',
+    sec13Text1: 'З будь-яких питань щодо вашої конфіденційності звертайтеся до нас за адресою halilibrahimkilicarslan@gmail.com.',
     rights: 'Усі права захищені.'
   },
   ur: {
@@ -1588,7 +1588,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. ڈیٹا برقرار رکھنے کی مدت',
     sec12Text1: 'ڈیٹا آپ کے آلے پر رہتا ہے جب تک کہ آپ ایپ کو حذف نہ کر دیں یا اکاؤنٹ حذف کریں خصوصیت کا استعمال نہ کریں۔',
     sec13Title: '13. ہم سے رابطہ کریں',
-    sec13Text1: 'آپ کی رازداری سے متعلق سوالات کے لیے، privacy@modonare.com پر ہم سے رابطہ کریں۔',
+    sec13Text1: 'آپ کی رازداری سے متعلق سوالات کے لیے، halilibrahimkilicarslan@gmail.com پر ہم سے رابطہ کریں۔',
     rights: 'جملہ حقوق محفوظ ہیں۔'
   },
   uz: {
@@ -1625,7 +1625,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Ma’lumotlarni saqlash muddati',
     sec12Text1: 'Ma’lumotlar siz ilovani o‘chirmaguningizcha yoki hisobni o‘chirish funksiyasidan foydalanmaguningizcha qurilmangizda saqlanadi.',
     sec13Title: '13. Biz bilan bog‘lanish',
-    sec13Text1: 'Maxfiyligingizga oid savollar bo‘yicha privacy@modonare.com manzili orqali murojaat qilishingiz mumkin.',
+    sec13Text1: 'Maxfiyligingizga oid savollar bo‘yicha halilibrahimkilicarslan@gmail.com manzili orqali murojaat qilishingiz mumkin.',
     rights: 'Barcha huquqlar himoyalangan.'
   },
   vi: {
@@ -1662,7 +1662,7 @@ export const PRIVACY_TRANSLATIONS: Record<string, PrivacyTranslation> = {
     sec12Title: '12. Thời gian Lưu trữ Dữ liệu',
     sec12Text1: 'Dữ liệu vẫn ở trên thiết bị của bạn cho đến khi bạn xóa ứng dụng hoặc sử dụng tính năng Xóa tài khoản.',
     sec13Title: '13. Liên hệ với Chúng tôi',
-    sec13Text1: 'Đối với các câu hỏi liên quan đến quyền riêng tư của bạn, vui lòng liên hệ với chúng tôi tại privacy@modonare.com.',
+    sec13Text1: 'Đối với các câu hỏi liên quan đến quyền riêng tư của bạn, vui lòng liên hệ với chúng tôi tại halilibrahimkilicarslan@gmail.com.',
     rights: 'Mọi quyền được bảo lưu.'
   }
 };

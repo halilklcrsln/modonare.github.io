@@ -288,9 +288,9 @@ The only exception is subscription transaction records, which are retained by Ap
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
 **MODONARE**  
-Email: privacy@modonare.com  
+Email: halilibrahimkilicarslan@gmail.com  
 Website: https://www.modonare.com  
-Support: support@modonare.com
+Support: halilibrahimkilicarslan@gmail.com
 
 We will respond to all privacy-related inquiries within 30 days.
 

@@ -65,7 +65,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Sorumluluk Reddi ve Sorumluluğun Sınırlandırılması',
     liabilityText: 'UYGULAMA "OLDUĞU GİBİ" SUNULMAKTADIR. YASALARIN İZİN VERDİĞİ AZAMİ ÖLÇÜDE, UYGULAMANIN KULLANIMINDAN DOĞACAK HİÇBİR ZARARDAN MODONARE SORUMLU TUTULAMAZ.',
     contactTitle: '8. İletişim Bilgileri',
-    contactText: 'Bu Koşullarla ilgili sorularınız için legal@modonare.com adresinden bizimle iletişime geçebilirsiniz.',
+    contactText: 'Bu Koşullarla ilgili sorularınız için halilibrahimkilicarslan@gmail.com adresinden bizimle iletişime geçebilirsiniz.',
     rights: 'Tüm hakları saklıdır.'
   },
   en: {
@@ -99,7 +99,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Disclaimers & Limitation of Liability',
     liabilityText: 'THE APPLICATION IS PROVIDED "AS IS". TO THE MAXIMUM EXTENT PERMITTED BY LAW, MODONARE SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM YOUR USE OF THE APP.',
     contactTitle: '8. Contact Information',
-    contactText: 'For any questions regarding these Terms, contact us at legal@modonare.com.',
+    contactText: 'For any questions regarding these Terms, contact us at halilibrahimkilicarslan@gmail.com.',
     rights: 'All rights reserved.'
   },
   ar: {
@@ -133,7 +133,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. إخلاء المسؤولية وحدود المسؤولية',
     liabilityText: 'يتم تقديم التطبيق "كما هو". إلى أقصى حد يسمح به القانون، لا يتحمل MODONARE المسؤولية عن أي أضرار تنشأ عن استخدامك للتطبيق.',
     contactTitle: '8. معلومات الاتصال',
-    contactText: 'لأي أسئلة تتعلق بهذه الشروط، اتصل بنا على legal@modonare.com.',
+    contactText: 'لأي أسئلة تتعلق بهذه الشروط، اتصل بنا على halilibrahimkilicarslan@gmail.com.',
     rights: 'جميع الحقوق محفوظة.'
   },
   az: {
@@ -167,7 +167,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Məsuliyyətdən İmtina və Məsuliyyətin Məhdudlaşdırılması',
     liabilityText: 'TƏTBİQ "OLDUĞU KİMİ" TƏQDİM EDİLİR. QANUNUN İCAZƏ VERDİYİ MAKSİMAL HƏDDƏ, TƏTBİQİN İSTİFADƏSİNDƏN YARANAN HEÇ BİR ZƏRƏRƏ GÖRƏ MODONARE MƏSULİYYƏT DAŞIMIR.',
     contactTitle: '8. Əlaqə Məlumatları',
-    contactText: 'Bu Şərtlərlə bağlı suallarınız üçün legal@modonare.com vasitəsilə bizimlə əlaqə saxlaya bilərsiniz.',
+    contactText: 'Bu Şərtlərlə bağlı suallarınız üçün halilibrahimkilicarslan@gmail.com vasitəsilə bizimlə əlaqə saxlaya bilərsiniz.',
     rights: 'Bütün hüquqlar qorunur.'
   },
   bn: {
@@ -201,7 +201,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '৭. দায়বদ্ধতার সীমাবদ্ধতা',
     liabilityText: 'অ্যাপ্লিকেশনটি "যেমন আছে" তেমন প্রদান করা হয়েছে। আইনের দ্বারা অনুমোদিত সর্বাধিক সীমা পর্যন্ত, অ্যাপ্লিকেশনটি ব্যবহারের ফলে উদ্ভূত কোনো ক্ষতির জন্য MODONARE দায়ী থাকবে না।',
     contactTitle: '৮. যোগাযোগের তথ্য',
-    contactText: 'এই শর্তাবলী সম্পর্কিত যেকোনো প্রশ্নের জন্য, legal@modonare.com এ আমাদের সাথে যোগাযোগ করুন।',
+    contactText: 'এই শর্তাবলী সম্পর্কিত যেকোনো প্রশ্নের জন্য, halilibrahimkilicarslan@gmail.com এ আমাদের সাথে যোগাযোগ করুন।',
     rights: 'সর্বস্বত্ব সংরক্ষিত।'
   },
   bg: {
@@ -235,7 +235,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Ограничаване на отговорността',
     liabilityText: 'ПРИЛОЖЕНИЕТО СЕ ПРЕДОСТАВЯ „ВЪВ ВИДА, В КОЙТО Е“. ДО МАКСИМАЛНАТА СТЕПЕН, РАЗРЕШЕНА ОТ ЗАКОНА, MODONARE НЕ НОСИ ОТГОВОРНОСТ ЗА КАКВИТО И ДА БИЛО ЩЕТИ, ПРОИЗТИЧАЩИ ОТ ИЗПОЛЗВАНЕТО НА ПРИЛОЖЕНИЕТО.',
     contactTitle: '8. Информация за контакт',
-    contactText: 'За въпроси относно тези Условия, свържете се с нас на legal@modonare.com.',
+    contactText: 'За въпроси относно тези Условия, свържете се с нас на halilibrahimkilicarslan@gmail.com.',
     rights: 'Всички права запазени.'
   },
   zh: {
@@ -269,7 +269,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. 免责声明与责任限制',
     liabilityText: '本应用按“原样”提供。在法律允许的最大范围内，MODONARE 不对因使用本应用而产生的任何损害承担责任。',
     contactTitle: '8. 联系方式',
-    contactText: '如对本条款有任何疑问，请联系我们：legal@modonare.com。',
+    contactText: '如对本条款有任何疑问，请联系我们：halilibrahimkilicarslan@gmail.com。',
     rights: '版权所有。'
   },
   hr: {
@@ -303,7 +303,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Ograničenje odgovornosti',
     liabilityText: 'APLIKACIJA SE PRUŽA "KAKVA JEST". U NAJVEĆOJ MJERI DOPUŠTENOJ ZAKONOM, MODONARE NEĆE BITI ODGOVORAN ZA BILO KAKVU ŠTETU NASTALU KORIŠTENJEM APLIKACIJE.',
     contactTitle: '8. Informacije za kontakt',
-    contactText: 'Za sva pitanja u vezi s ovim Uvjetima, kontaktirajte nas na legal@modonare.com.',
+    contactText: 'Za sva pitanja u vezi s ovim Uvjetima, kontaktirajte nas na halilibrahimkilicarslan@gmail.com.',
     rights: 'Sva prava pridržana.'
   },
   cs: {
@@ -337,7 +337,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Omezení odpovědnosti',
     liabilityText: 'APLIKACE JE POSKYTOVÁNA "JAK JE". V MAXIMÁLNÍM ROZSAHU POVOLENÉM ZÁKONEM NENÍ MODONARE ODPOVĚDNÝ ZA ŽÁDNÉ ŠKODY VZNIKLÉ POUŽÍVÁNÍM APLIKACE.',
     contactTitle: '8. Kontaktní informace',
-    contactText: 'V případě jakýchkoli dotazů týkajících se těchto Podmínek nás kontaktujte na legal@modonare.com.',
+    contactText: 'V případě jakýchkoli dotazů týkajících se těchto Podmínek nás kontaktujte na halilibrahimkilicarslan@gmail.com.',
     rights: 'Všechna práva vyhrazena.'
   },
   da: {
@@ -371,7 +371,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Ansvarsfraskrivelse og begrænsning af ansvar',
     liabilityText: 'APPLIKATIONEN LEVERES "SOM DEN ER". I DET MAKSIMALT TILLADTE OMFANG AF LOVEN ER MODONARE IKKE ANSVARLIG FOR NOGEN SKADER, DER OPSTÅR SOM FØLGE AF DIN BRUG AF APPEN.',
     contactTitle: '8. Kontaktoplysninger',
-    contactText: 'Ved spørgsmål vedrørende disse Vilkår, kontakt os på legal@modonare.com.',
+    contactText: 'Ved spørgsmål vedrørende disse Vilkår, kontakt os på halilibrahimkilicarslan@gmail.com.',
     rights: 'Alle rettigheder forbeholdes.'
   },
   nl: {
@@ -405,7 +405,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Disclaimer en beperking van aansprakelijkheid',
     liabilityText: 'DE APPLICATIE WORDT GELEVERD "ZOALS DEZE IS". VOOR ZOVER MAXIMAAL TOEGESTAAN DOOR DE WET IS MODONARE NIET AANSPRAKELIJK VOOR ENIGE SCHADE DIE VOORTVLOEIT UIT UW GEBRUIK VAN DE APP.',
     contactTitle: '8. Contactinformatie',
-    contactText: 'Neem voor vragen over deze Voorwaarden contact met ons op via legal@modonare.com.',
+    contactText: 'Neem voor vragen over deze Voorwaarden contact met ons op via halilibrahimkilicarslan@gmail.com.',
     rights: 'Alle rechten voorbehouden.'
   },
   fil: {
@@ -439,7 +439,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Limitasyon ng Pananagutan',
     liabilityText: 'ANG APPLICATION AY IBINIBIGAY NG "AS IS". SA PINAKAMATAAS NA PINAHIHINTULUTAN NG BATAS, ANG MODONARE AY HINDI PAPANAGUTIN SA ANUMANG PINSALA NA MULA SA IYONG PAGGAMIT NG APP.',
     contactTitle: '8. Impormasyon sa Pakikipag-ugnay',
-    contactText: 'Para sa anumang mga katanungan tungkol sa mga Tuntuning ito, makipag-ugnayan sa amin sa legal@modonare.com.',
+    contactText: 'Para sa anumang mga katanungan tungkol sa mga Tuntuning ito, makipag-ugnayan sa amin sa halilibrahimkilicarslan@gmail.com.',
     rights: 'Lahat ng karapatan ay rezubado.'
   },
   fi: {
@@ -473,7 +473,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Vastuunrajoitus',
     liabilityText: 'SOVELLUS TOIMITETAAN "SELLAISENA KUIN SE ON". LAIN SALLIMISSA RAJOISSA MODONARE EI OLE VASTUUSSA MISTÄÄN SOVELLUKSEN KÄYTÖSTÄ AIHEUTUVISTA VAHINGOISTA.',
     contactTitle: '8. Yhteystiedot',
-    contactText: 'Jos sinulla on kysyttävää näistä Ehdoista, ota meihin yhteyttä osoitteeseen legal@modonare.com.',
+    contactText: 'Jos sinulla on kysyttävää näistä Ehdoista, ota meihin yhteyttä osoitteeseen halilibrahimkilicarslan@gmail.com.',
     rights: 'Kaikki oikeudet pidätetään.'
   },
   fr: {
@@ -507,7 +507,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Limitation de responsabilité',
     liabilityText: "L'APPLICATION EST FOURNIE « EN L'ÉTAT ». DANS LA MESURE MAXIMALE AUTORISÉE PAR LA LOI, MODONARE NE SERA PAS RESPONSABLE DES DOMMAGES RÉSULTANT DE VOTRE UTILISATION DE L'APP.",
     contactTitle: '8. Informations de contact',
-    contactText: 'Pour toute question concernant ces Conditions, contactez-nous à legal@modonare.com.',
+    contactText: 'Pour toute question concernant ces Conditions, contactez-nous à halilibrahimkilicarslan@gmail.com.',
     rights: 'Tous droits réservés.'
   },
   de: {
@@ -541,7 +541,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Haftungsausschluss und Haftungsbeschränkung',
     liabilityText: 'DIE ANWENDUNG WIRD „WIE BESEHEN“ BEREITGESTELLT. IM MAXIMAL ZULÄSSIGEN UMFANG DES GESETZES HAFTET MODONARE NICHT FÜR SCHÄDEN, DIE AUS DER NUTZUNG DER APP ENTSTEHEN.',
     contactTitle: '8. Kontaktinformationen',
-    contactText: 'Bei Fragen zu diesen Bedingungen kontaktieren Sie uns bitte unter legal@modonare.com.',
+    contactText: 'Bei Fragen zu diesen Bedingungen kontaktieren Sie uns bitte unter halilibrahimkilicarslan@gmail.com.',
     rights: 'Alle Rechte vorbehalten.'
   },
   el: {
@@ -575,7 +575,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Αποποίηση Ευθύνης & Περιορισμός Ευθύνης',
     liabilityText: 'Η ΕΦΑΡΜΟΓΗ ΠΑΡΕΧΕΤΑΙ "ΩΣ ΕΧΕΙ". ΣΤΟ ΜΕΓΙΣΤΟ ΒΑΘΜΟ ΠΟΥ ΕΠΙΤΡΕΠΕΤΑΙ ΑΠΟ ΤΟ ΝΟΜΟ, ΤΟ MODONARE ΔΕΝ ΦΕΡΕΙ ΕΥΘΥΝΗ ΓΙΑ ΟΠΟΙΑΔΗΠΟΤΕ ΖΗΜΙΑ ΠΡΟΚΥΨΕΙ ΑΠΟ ΤΗ ΧΡΗΣΗ ΤΗΣ ΕΦΑΡΜΟΓΗΣ.',
     contactTitle: '8. Στοιχεία Επικοινωνίας',
-    contactText: 'Για οποιεσδήποτε ερωτήσεις σχετικά με αυτούς τους Όρους, επικοινωνήστε μαζί μας στο legal@modonare.com.',
+    contactText: 'Για οποιεσδήποτε ερωτήσεις σχετικά με αυτούς τους Όρους, επικοινωνήστε μαζί μας στο halilibrahimkilicarslan@gmail.com.',
     rights: 'Με την επιφύλαξη παντός δικαιώματος.'
   },
   he: {
@@ -609,7 +609,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. הגבלת אחריות',
     liabilityText: 'האפליקציה מסופקת "כמות שהיא". במידת האפשר על פי החוק, MODONARE לא תישא באחריות לכל נזק שייגרם משימוש באפליקציה.',
     contactTitle: '8. פרטי התקשרות',
-    contactText: 'לכל שאלה בנוגע לתנאים אלה, צור קשר בכתובת legal@modonare.com.',
+    contactText: 'לכל שאלה בנוגע לתנאים אלה, צור קשר בכתובת halilibrahimkilicarslan@gmail.com.',
     rights: 'כל הזכויות שמורות.'
   },
   hi: {
@@ -643,7 +643,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. अस्वीकरण और दायित्व की सीमा',
     liabilityText: 'एप्लिकेशन "जैसा है" प्रदान किया जाता है। कानून द्वारा अनुमत अधिकतम सीमा तक, एप्लिकेशन के आपके उपयोग से उत्पन्न होने वाले किसी भी नुकसान के लिए MODONARE उत्तरदायी नहीं होगा।',
     contactTitle: '8. संपर्क जानकारी',
-    contactText: 'इन शर्तों के संबंध में किसी भी प्रश्न के लिए, legal@modonare.com पर हमसे संपर्क करें।',
+    contactText: 'इन शर्तों के संबंध में किसी भी प्रश्न के लिए, halilibrahimkilicarslan@gmail.com पर हमसे संपर्क करें।',
     rights: 'सर्वाधिकार सुरक्षित।'
   },
   hu: {
@@ -677,7 +677,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Felelősség korlátozása',
     liabilityText: 'AZ ALKALMAZÁST „ADOTT ÁLLAPOTBAN” BIZTOSÍTJUK. A TÖRVÉNY ÁLTAL MEGENGEDETT MAXIMÁLIS MÉRTÉKBEN A MODONARE NEM VÁLLAL FELELŐSSÉGET AZ ALKALMAZÁS HASZNÁLATÁBÓL EREDŐ SEMMILYEN KÁRÉRT.',
     contactTitle: '8. Kapcsolattartási információk',
-    contactText: 'Ha bármilyen kérdése van a Feltételekkel kapcsolatban, lépjen velünk kapcsolatba a legal@modonare.com címen.',
+    contactText: 'Ha bármilyen kérdése van a Feltételekkel kapcsolatban, lépjen velünk kapcsolatba a halilibrahimkilicarslan@gmail.com címen.',
     rights: 'Minden jog fenntartva.'
   },
   id: {
@@ -711,7 +711,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Penafian & Batasan Tanggung Jawab',
     liabilityText: 'APLIKASI INI DISEDIAKAN "SEBAGAIMANA ADANYA". SEJAUH YANG DIIZINKAN OLEH HUKUM, MODONARE TIDAK BERTANGGUNG JAWAB ATAS SEGALA KERUSAKAN YANG TIMBUL DARI PENGGUNAAN APLIKASI OLEH ANDA.',
     contactTitle: '8. Informasi Kontak',
-    contactText: 'Untuk pertanyaan apa pun mengenai Ketentuan ini, hubungi kami di legal@modonare.com.',
+    contactText: 'Untuk pertanyaan apa pun mengenai Ketentuan ini, hubungi kami di halilibrahimkilicarslan@gmail.com.',
     rights: 'Hak cipta dilindungi undang-undang.'
   },
   it: {
@@ -745,7 +745,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Esclusione e limitazione di responsabilità',
     liabilityText: 'L\'APPLICAZIONE È FORNITA "COSÌ COM\'È". NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE, MODONARE NON SARÀ RESPONSABILE DI ALCUN DANNO DERIVANTE DALL\'USO DELL\'APP.',
     contactTitle: '8. Informazioni di contatto',
-    contactText: 'Per qualsiasi domanda relativa a questi Termini, contattaci all\'indirizzo legal@modonare.com.',
+    contactText: 'Per qualsiasi domanda relativa a questi Termini, contattaci all\'indirizzo halilibrahimkilicarslan@gmail.com.',
     rights: 'Tutti i diritti riservati.'
   },
   ja: {
@@ -779,7 +779,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. 免責事項および責任の制限',
     liabilityText: '本アプリは「現状有姿」で提供されます。法律で認められる最大範囲において、MODONAREは本アプリの使用から生じるいかなる損害についても責任を負いません。',
     contactTitle: '8. 連絡先情報',
-    contactText: '本規約に関するご質問は、legal@modonare.comまでお問い合わせください。',
+    contactText: '本規約に関するご質問は、halilibrahimkilicarslan@gmail.comまでお問い合わせください。',
     rights: '無断転載を禁じます。'
   },
   kk: {
@@ -813,7 +813,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Жауапкершілікті шектеу',
     liabilityText: 'ҚОЛДАНБА «СОЛ КҮЙІНДЕ»ҰСЫНЫЛАДЫ. ЗАҢМЕН РҰҚСАТ ЕТІЛГЕН ШЕКТЕУЛІ ШЕКТЕУЛЕРДЕ MODONARE ҚОЛДАНБАНЫ ПАЙДАЛАНУДАН ТУЫНДАҒАН ЕШҚАНДАЙ ЗИЯНҒА ЖАУАПКЕРШІЛІК КӨТЕРМЕЙДІ.',
     contactTitle: '8. Байланыс ақпараты',
-    contactText: 'Осы Шарттарға қатысты сұрақтарыңыз болса, бізге legal@modonare.com мекенжайы бойынша хабарласыңыз.',
+    contactText: 'Осы Шарттарға қатысты сұрақтарыңыз болса, бізге halilibrahimkilicarslan@gmail.com мекенжайы бойынша хабарласыңыз.',
     rights: 'Барлық құқықтар қорғалған.'
   },
   ko: {
@@ -847,7 +847,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. 면책 및 책임의 제한',
     liabilityText: '본 애플리케이션은 "있는 그대로" 제공됩니다. 법률이 허용하는 최대 범위 내에서 MODONARE는 본 애플리케이션 사용으로 인해 발생하는 어떠한 손해에 대해서도 책임을 지지 않습니다.',
     contactTitle: '8. 연락처 정보',
-    contactText: '본 약관에 관한 문의 사항은 legal@modonare.com으로 연락해 주시기 바랍니다.',
+    contactText: '본 약관에 관한 문의 사항은 halilibrahimkilicarslan@gmail.com으로 연락해 주시기 바랍니다.',
     rights: '모든 권리 보유.'
   },
   ky: {
@@ -881,7 +881,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Жоопкерчиликти чектөө',
     liabilityText: 'ТИРКЕМЕ «ОШОНДОЙ КҮЙҮНДӨ» СУНУШТАЛАТ. МЫЙЗАМ ЖОЛ БЕРГЕН МАКСИМАЛДУУ ЧЕКТЕ MODONARE ТИРКЕМЕНИ КОЛДОНУУДАН КЕЛИП ЧЫККАН ЭЧ КАНДАЙ ЗЫЯНГА ЖООПКЕРЧИЛИК ТАРТПАЙТ.',
     contactTitle: '8. Байланыш маалыматы',
-    contactText: 'Бул Шарттарга байланыштуу суроолоруңуз болсо, бизге legal@modonare.com дареги боюнча кайрылыңыз.',
+    contactText: 'Бул Шарттарга байланыштуу суроолоруңуз болсо, бизге halilibrahimkilicarslan@gmail.com дареги боюнча кайрылыңыз.',
     rights: 'Бардык укуктар корголгон.'
   },
   ms: {
@@ -915,7 +915,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Penafian & Had Liabiliti',
     liabilityText: 'APLIKASI INI DISEDIAKAN "SEPERTI ADANYA". SEJAUH YANG DIBENARKAN OLEH UNDANG-UNDANG, MODONARE TIDAK BERTANGGUNG JAWAB ATAS SEBARANG KEROSAKAN YANG TIMBUL DARIPADA PENGGUNAAN APLIKASI OLEH ANDA.',
     contactTitle: '8. Maklumat Hubungan',
-    contactText: 'Untuk sebarang pertanyaan mengenai Syarat ini, hubungi kami di legal@modonare.com.',
+    contactText: 'Untuk sebarang pertanyaan mengenai Syarat ini, hubungi kami di halilibrahimkilicarslan@gmail.com.',
     rights: 'Hak cipta terpelihara.'
   },
   no: {
@@ -949,7 +949,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Ansvarsbegrensning',
     liabilityText: 'APPLIKASJONEN LEVERES «SOM DEN ER». I DEN GRAD DET ER TILLATT ETTER LOVEN, ER MODONARE IKKE ANSVARLIG FOR NOEN SKADER SOM FØLGE AV DIN BRUK AV APPEN.',
     contactTitle: '8. Kontaktinformasjon',
-    contactText: 'For spørsmål angående disse Vilkårene, kontakt oss på legal@modonare.com.',
+    contactText: 'For spørsmål angående disse Vilkårene, kontakt oss på halilibrahimkilicarslan@gmail.com.',
     rights: 'Enerett.'
   },
   fa: {
@@ -983,7 +983,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '۷. سلب مسئولیت و محدودیت مسئولیت',
     liabilityText: 'برنامه به همان صورتی که هست ارائه می‌شود. تا حداکثر میزان مجاز توسط قانون، MODONARE مسئولیتی در قبال خسارات ناشی از استفاده شما از برنامه ندارد.',
     contactTitle: '۸. اطلاعات تماس',
-    contactText: 'برای هرگونه سوال در مورد این شرایط، با ما در legal@modonare.com تماس بگیرید.',
+    contactText: 'برای هرگونه سوال در مورد این شرایط، با ما در halilibrahimkilicarslan@gmail.com تماس بگیرید.',
     rights: 'تمامی حقوق محفوظ است.'
   },
   pl: {
@@ -1017,7 +1017,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Wyłączenie i ograniczenie odpowiedzialności',
     liabilityText: 'APLIKACJA JEST DOSTARCZANA W STANIE, W JAKIM SIĘ ZNAJDUJE („AS IS”). W MAKSYMALNYM ZAKRESIE DOZWOLONYM PRZEZ PRAWO MODONARE NIE PONOSI ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK SZKODY WYNIKAJĄCE Z KORZYSTANIA Z APLIKACJI.',
     contactTitle: '8. Informacje kontaktowe',
-    contactText: 'W przypadku pytań dotyczących niniejszych Warunków prosimy o kontakt pod adresem legal@modonare.com.',
+    contactText: 'W przypadku pytań dotyczących niniejszych Warunków prosimy o kontakt pod adresem halilibrahimkilicarslan@gmail.com.',
     rights: 'Wszelkie prawa zastrzeżone.'
   },
   pt: {
@@ -1051,7 +1051,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Exclusão e Limitação de Responsabilidade',
     liabilityText: 'A APLICAÇÃO É FORNECIDA "COMO ESTÁ". NA MEDIDA MÁXIMA PERMITIDA POR LEI, O MODONARE NÃO SERÁ RESPONSÁVEL POR QUAISQUER DANOS RESULTANTES DA SUA UTILIZAÇÃO DA APP.',
     contactTitle: '8. Informações de Contacto',
-    contactText: 'Para qualquer dúvida relativa a estes Termos, contacte-nos através do e-mail legal@modonare.com.',
+    contactText: 'Para qualquer dúvida relativa a estes Termos, contacte-nos através do e-mail halilibrahimkilicarslan@gmail.com.',
     rights: 'Todos os direitos reservados.'
   },
   pa: {
@@ -1085,7 +1085,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. ਬੇਦਾਅਵਾ ਅਤੇ ਜ਼ਿੰਮੇਵਾਰੀ ਦੀ ਸੀਮਾ',
     liabilityText: 'ਐਪਲੀਕੇਸ਼ਨ "ਜਿਵੇਂ ਹੈ" ਪ੍ਰਦਾਨ ਕੀਤੀ ਜਾਂਦੀ ਹੈ। ਕਾਨੂੰਨ ਦੁਆਰਾ ਮਨਜ਼ੂਰ ਅਧਿਕਤਮ ਸੀਮਾ ਤੱਕ, ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਤੁਹਾਡੀ ਵਰਤੋਂ ਤੋਂ ਪੈਦਾ ਹੋਣ ਵਾਲੇ ਕਿਸੇ ਵੀ ਨੁਕਸਾਨ ਲਈ MODONARE ਜਵਾਬਦੇਹ ਨਹੀਂ ਹੋਵੇਗਾ।',
     contactTitle: '8. ਸੰਪਰਕ ਜਾਣਕਾਰੀ',
-    contactText: 'ਇਹਨਾਂ ਸ਼ਰਤਾਂ ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਕਿਸੇ ਵੀ ਪ੍ਰਸ਼ਨ ਲਈ, legal@modonare.com ਤੇ ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।',
+    contactText: 'ਇਹਨਾਂ ਸ਼ਰਤਾਂ ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਕਿਸੇ ਵੀ ਪ੍ਰਸ਼ਨ ਲਈ, halilibrahimkilicarslan@gmail.com ਤੇ ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।',
     rights: 'ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।'
   },
   ro: {
@@ -1119,7 +1119,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Declinarea și limitarea răspunderii',
     liabilityText: 'APLICAȚIA ESTE FURNIZATĂ „CA ATARE”. ÎN MĂSURA MAXIMĂ PERMISĂ DE LEGE, MODONARE NU ESTE RESPONSABIL PENTRU NICIUN PREJUDICIU REZULTAT DIN UTILIZAREA APLICATIEI.',
     contactTitle: '8. Informații de contact',
-    contactText: 'Pentru orice întrebări referitoare la acești Termeni, contactați-ne la legal@modonare.com.',
+    contactText: 'Pentru orice întrebări referitoare la acești Termeni, contactați-ne la halilibrahimkilicarslan@gmail.com.',
     rights: 'Toate drepturile rezervate.'
   },
   ru: {
@@ -1153,7 +1153,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Ограничение ответственности',
     liabilityText: 'ПРИЛОЖЕНИЕ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ». В МАКСИМАЛЬНОЙ СТЕПЕНИ, РАЗРЕШЕННОЙ ЗАКОНОМ, MODONARE НЕ НЕСЕТ ОТВЕТСТВЕННОСТИ ЗА ЛЮБОЙ УЩЕРБ, ВОЗНИКШИЙ В РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ПРИЛОЖЕНИЯ.',
     contactTitle: '8. Контактная информация',
-    contactText: 'По любым вопросам относительно этих Условий обращайтесь к нам по адресу legal@modonare.com.',
+    contactText: 'По любым вопросам относительно этих Условий обращайтесь к нам по адресу halilibrahimkilicarslan@gmail.com.',
     rights: 'Все права защищены.'
   },
   sr: {
@@ -1187,7 +1187,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Ограничење одговорности',
     liabilityText: 'АПЛИКАЦИЈА СЕ ПРУЖА „КАКО ЈЕСТЕ“. У НАЈВЕЋОЈ МЕРИ ДОЗВОЉЕНОЈ ЗАКОНОМ, MODONARE НЕЋЕ БИТИ ОДГОВОРАН ЗА БИЛО КАКВУ ШТЕТУ НАСТАЛУ КОРИШЋЕЊЕМ АПЛИКАЦИЈЕ.',
     contactTitle: '8. Контакт информације',
-    contactText: 'За сва питања у вези са овим Условима, контактирајте нас на legal@modonare.com.',
+    contactText: 'За сва питања у вези са овим Условима, контактирајте нас на halilibrahimkilicarslan@gmail.com.',
     rights: 'Сва права задржана.'
   },
   es: {
@@ -1221,7 +1221,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Descargo de responsabilidad y limitación de responsabilidad',
     liabilityText: 'LA APLICACIÓN SE PROPORCIONA "TAL CUAL". EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEY, MODONARE NO SERÁ RESPONSABLE DE NINGÚN DAÑO DERIVADO DEL USO DE LA APP.',
     contactTitle: '8. Información de contacto',
-    contactText: 'Para cualquier pregunta con respecto a estos Términos, contáctenos en legal@modonare.com.',
+    contactText: 'Para cualquier pregunta con respecto a estos Términos, contáctenos en halilibrahimkilicarslan@gmail.com.',
     rights: 'Todos los derechos reservados.'
   },
   sw: {
@@ -1255,7 +1255,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Kikomo cha Dhima',
     liabilityText: 'PROGRAMU IMETOLEWA "KAMA ILIVYO". KWA KIWANGO CHA JUU KINACHORUHUSIWA NA SHERIA, MODONARE HAТАBEBA DHIMA KWA UHARIBIFU WOWOTE UNAOTOKANA NA MATUMIZI YAKO YA PROGRAMU.',
     contactTitle: '8. Maelezo ya Mawasiliano',
-    contactText: 'Kwa maswali yoyote kuhusu Masharti haya, wasiliana nasi kwa legal@modonare.com.',
+    contactText: 'Kwa maswali yoyote kuhusu Masharti haya, wasiliana nasi kwa halilibrahimkilicarslan@gmail.com.',
     rights: 'Haki zote zimehifadhiwa.'
   },
   sv: {
@@ -1289,7 +1289,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Ansvarsbegränsning',
     liabilityText: 'APPLIKATIONEN TILLHANDAHÅLLS I BEFINTLIGT SKICK. I DEN MAXIMALA OMFATTNING SOM TILLÅTS ENLIGT LAG ÄR MODONARE INTE ANSVARIG FÖR NÅGRA SKADOR SOM UPPSTÅR FRÅN ANVÄNDNINGEN AV APPEN.',
     contactTitle: '8. Kontaktinformation',
-    contactText: 'För frågor angående dessa Villkor, kontakta oss på legal@modonare.com.',
+    contactText: 'För frågor angående dessa Villkor, kontakta oss på halilibrahimkilicarslan@gmail.com.',
     rights: 'Alla rättigheter förbehållna.'
   },
   tg: {
@@ -1323,7 +1323,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Маҳдудияти масъулият',
     liabilityText: 'БАРНОМА «ЧУНОНЕ КИ ҲАСТ» ПЕШНИҲОД КАРДА МЕШАВАД. ДАР ДОИРАИ МАКСИМАЛИИ ҚОНУН, MODONARE БАРОИ ЯГОН ЗАРАРЕ, КИ АЗ ИСТИФОДАИ БАРНОМА БА ВУҶУД МЕОЯД, МАСЪУЛИЯТ НАДОРАД.',
     contactTitle: '8. Маълумоти тамос',
-    contactText: 'Барои ҳама гуна саволҳо оид ба ин Шартҳо, бо мо дар legal@modonare.com тамос гиред.',
+    contactText: 'Барои ҳама гуна саволҳо оид ба ин Шартҳо, бо мо дар halilibrahimkilicarslan@gmail.com тамос гиред.',
     rights: 'Ҳамаи ҳуқуқҳо ҳифз шудаанд.'
   },
   th: {
@@ -1357,7 +1357,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. ข้อจำกัดความรับผิดชอบและขีดจำกัดความรับผิด',
     liabilityText: 'แอปพลิเคชันนี้จัดทำขึ้นแบบ "ตามที่เป็นอยู่" ตามขอบเขตสูงสุดที่กฎหมายอนุญาต MODONARE จะไม่รับผิดชอบต่อความเสียหายใดๆ ที่เกิดขึ้นจากการใช้งานแอปพลิเคชันของคุณ',
     contactTitle: '8. ข้อมูลการติดต่อ',
-    contactText: 'หากมีข้อสงสัยใดๆ เกี่ยวกับข้อกำหนดเหล่านี้ โปรดติดต่อเราที่ legal@modonare.com',
+    contactText: 'หากมีข้อสงสัยใดๆ เกี่ยวกับข้อกำหนดเหล่านี้ โปรดติดต่อเราที่ halilibrahimkilicarslan@gmail.com',
     rights: 'สงวนลิขสิทธิ์.'
   },
   tk: {
@@ -1391,7 +1391,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Jogapkärçiligi çäklendirmek',
     liabilityText: 'PROGRAMMA «KÖNE GÖRNÜŞINDE» HÖDÜRLENÝÄR. KANUNYŇ RUGSAT BERÝÄN IŇ ÝOKARY ÇÄKLERINDE MODONARE PROGRAMMANY ULANMAKDAN GELIP ÇYKAN HİÇ HILI ZYÝANA JOGAPKÄRÇILIK ÇEKMEÝÄR.',
     contactTitle: '8. Habarlaşmak üçin maglumat',
-    contactText: 'Bu Şertler boýunça soraglaryňyz bolsa, legal@modonare.com salgysy arkaly habarlaşyp bilersiňiz.',
+    contactText: 'Bu Şertler boýunça soraglaryňyz bolsa, halilibrahimkilicarslan@gmail.com salgysy arkaly habarlaşyp bilersiňiz.',
     rights: 'Ähli hukuklar goralan.'
   },
   uk: {
@@ -1425,7 +1425,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Обмеження відповідальності',
     liabilityText: 'ПРИСТРІЙ НАДАЄТЬСЯ «ЯК Є». У МАКСИМАЛЬНІЙ МІРІ, ДОЗВОЛЕНІЙ ЗАКОНОМ, MODONARE НЕ НЕСЕ ВІДПОВІДАЛЬНОСТІ ЗА БУДЬ-ЯКІ ЗБИТКИ, ЩО ВИНИКЛИ В РЕЗУЛЬТАТІ ВИКОРИСТАННЯ ПРИСТРОЮ.',
     contactTitle: '8. Контактна інформація',
-    contactText: 'З будь-яких питань щодо цих Умов звертайтеся до нас за адресою legal@modonare.com.',
+    contactText: 'З будь-яких питань щодо цих Умов звертайтеся до нас за адресою halilibrahimkilicarslan@gmail.com.',
     rights: 'Усі права захищені.'
   },
   ur: {
@@ -1459,7 +1459,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. دستبرداری اور ذمہ داری کی حد',
     liabilityText: 'ایپلی کیشن "جیسا ہے" فراہم کی جاتی ہے۔ قانون کی طرف سے اجازت دی گئی حد تک، ایپلی کیشن کے استعمال سے پیدا ہونے والے کسی بھی نقصان کے لیے MODONARE ذمہ دار نہیں ہوگا۔',
     contactTitle: '8. رابطہ کی معلومات',
-    contactText: 'ان شرائط کے سلسلے میں کسی بھی سوال کے لیے، legal@modonare.com پر ہم سے رابطہ کریں۔',
+    contactText: 'ان شرائط کے سلسلے میں کسی بھی سوال کے لیے، halilibrahimkilicarslan@gmail.com پر ہم سے رابطہ کریں۔',
     rights: 'جملہ حقوق محفوظ ہیں۔'
   },
   uz: {
@@ -1493,7 +1493,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Javobgarlikni cheklash',
     liabilityText: 'ILOVA «ASLIY HOLIDA» TAQDIM ETILADI. QONUN YO‘L QO‘YADIGAN MAKSIMAL DARAJADA MODONARE ILOVADAN FOYDALANISHDAN KELIB CHIQADIGAN HECH QANDAY ZARAR UCHUN JAVOBGARLIK TARTMAYDI.',
     contactTitle: '8. Aloqa ma’lumotlari',
-    contactText: 'Ushbu Shartlar bo‘yicha savollaringiz bo‘lsa, bizga legal@modonare.com manzili orqali murojaat qilishingiz mumkin.',
+    contactText: 'Ushbu Shartlar bo‘yicha savollaringiz bo‘lsa, bizga halilibrahimkilicarslan@gmail.com manzili orqali murojaat qilishingiz mumkin.',
     rights: 'Barcha huquqlar himoyalangan.'
   },
   vi: {
@@ -1527,7 +1527,7 @@ export const TERMS_TRANSLATIONS: Record<string, TermsTranslation> = {
     liabilityTitle: '7. Tuyên bố miễn trừ trách nhiệm & Giới hạn trách nhiệm pháp lý',
     liabilityText: 'ỨNG DỤNG ĐƯỢC CUNG CẤP "AS IS" (NHƯ HIỆN CÓ). TRONG PHẠM VI TỐI ĐA ĐƯỢC PHÁP LUẬT CHO PHÉP, MODONARE SẼ KHÔNG CHỊU TRÁCH NHIỆM PHÁP LÝ CHO BẤT KỲ THIỆT HẠI NÀO PHÁT SINH TỪ VIỆC SỬ DỤNG APP CỦA BẠN.',
     contactTitle: '8. Thông tin liên hệ',
-    contactText: 'Đối với bất kỳ câu hỏi nào liên quan đến các Điều khoản này, vui lòng liên hệ với chúng tôi tại legal@modonare.com.',
+    contactText: 'Đối với bất kỳ câu hỏi nào liên quan đến các Điều khoản này, vui lòng liên hệ với chúng tôi tại halilibrahimkilicarslan@gmail.com.',
     rights: 'Mọi quyền được bảo lưu.'
   }
 };

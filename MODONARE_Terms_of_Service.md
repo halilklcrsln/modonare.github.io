@@ -349,7 +349,7 @@ These Terms shall be governed by and construed in accordance with applicable law
 
 ### 15.2 Informal Resolution
 
-Before filing a formal dispute, you agree to contact us at legal@modonare.com and attempt to resolve the dispute informally. We will make good-faith efforts to resolve the issue within 30 days.
+Before filing a formal dispute, you agree to contact us at halilibrahimkilicarslan@gmail.com and attempt to resolve the dispute informally. We will make good-faith efforts to resolve the issue within 30 days.
 
 ### 15.3 Binding Arbitration
 
@@ -396,8 +396,8 @@ We will not be liable for any failure to perform our obligations where the failu
 For any questions, concerns, or notices regarding these Terms of Service, please contact us:
 
 **MODONARE**  
-Email: legal@modonare.com  
-Support: support@modonare.com  
+Email: halilibrahimkilicarslan@gmail.com  
+Support: halilibrahimkilicarslan@gmail.com  
 Website: https://www.modonare.com  
 
 We will respond to all legal inquiries within 30 days.

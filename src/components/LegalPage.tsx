@@ -28,7 +28,7 @@ export default function LegalPage({ type, lang = 'en' }: LegalPageProps) {
               {supportT.emailDesc}
             </p>
             <p className="font-mono bg-black/10 dark:bg-black/30 p-4 rounded-xl inline-block border border-celestial-gold/15">
-              <strong>support@modonare.com</strong>
+              <strong>halilibrahimkilicarslan@gmail.com</strong>
             </p>
           </div>
 
@@ -218,9 +218,9 @@ export default function LegalPage({ type, lang = 'en' }: LegalPageProps) {
             <p className="font-mono bg-black/10 dark:bg-black/30 p-4 rounded-xl space-y-1">
               <strong>MODONARE</strong><br />
               {privacyT.sec13Text1}<br />
-              Email: privacy@modonare.com<br />
+              Email: halilibrahimkilicarslan@gmail.com<br />
               Website: https://www.modonare.com<br />
-              Support: support@modonare.com
+              Support: halilibrahimkilicarslan@gmail.com
             </p>
           </div>
         </section>
@@ -357,8 +357,8 @@ export default function LegalPage({ type, lang = 'en' }: LegalPageProps) {
           <h2 className="font-serif text-2xl text-celestial-gold mt-8 mb-4 font-normal">{termsT.contactTitle}</h2>
           <p className="font-mono bg-black/10 dark:bg-black/30 p-4 rounded-xl space-y-1">
             <strong>MODONARE</strong><br />
-            Email: legal@modonare.com<br />
-            Support: support@modonare.com<br />
+            Email: halilibrahimkilicarslan@gmail.com<br />
+            Support: halilibrahimkilicarslan@gmail.com<br />
             Website: https://www.modonare.com
           </p>
         </div>
