@@ -155,6 +155,12 @@ export default function CelestialHeader({ theme, setTheme, lang, setLang, t, isS
 
   const currentLangName = SUPPORTED_LANGUAGES.find(l => l.code === lang)?.name || lang.toUpperCase();
 
+  const navigate = (path: string, e?: React.MouseEvent) => {
+    if (e) e.preventDefault();
+    window.history.pushState({}, '', path);
+    window.dispatchEvent(new PopStateEvent('popstate'));
+  };
+
   return (
     <header className={`${isSticky ? 'sticky' : 'fixed'} top-0 left-0 w-full z-50 bg-opacity-85 bg-mystic-dark border-b transition-all duration-300 backdrop-blur-xl ${
       theme === 'light' 
@@ -393,10 +399,10 @@ export default function CelestialHeader({ theme, setTheme, lang, setLang, t, isS
           theme === 'light' ? 'bg-celestial-gold/35' : 'bg-celestial-gold/15'
         }`} />
         <nav className="flex justify-center items-center py-1.5 md:py-2 gap-8 text-[11px] font-sans font-semibold tracking-[0.2em] uppercase text-mystic-text-muted/80">
-          <a className="hover:text-celestial-gold transition-colors block duration-200" href="#">{t.home}</a>
-          <a className="hover:text-celestial-gold transition-colors block duration-200" href="#/privacy">{t.privacy}</a>
-          <a className="hover:text-celestial-gold transition-colors block duration-200" href="#/terms">{t.terms}</a>
-          <a className="hover:text-celestial-gold transition-colors block duration-200" href="#/support">{t.support}</a>
+          <a className="hover:text-celestial-gold transition-colors block duration-200" href="/" onClick={(e) => navigate('/', e)}>{t.home}</a>
+          <a className="hover:text-celestial-gold transition-colors block duration-200" href="/privacy" onClick={(e) => navigate('/privacy', e)}>{t.privacy}</a>
+          <a className="hover:text-celestial-gold transition-colors block duration-200" href="/terms" onClick={(e) => navigate('/terms', e)}>{t.terms}</a>
+          <a className="hover:text-celestial-gold transition-colors block duration-200" href="/support" onClick={(e) => navigate('/support', e)}>{t.support}</a>
         </nav>
       </div>
     </header>
