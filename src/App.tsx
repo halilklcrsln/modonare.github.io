@@ -20,15 +20,15 @@ export default function App() {
   const [currentView, setCurrentView] = useState<'main' | 'privacy' | 'terms' | 'support'>('main');
 
   useEffect(() => {
-    const handleHashChange = () => {
-      const hash = window.location.hash;
-      if (hash === '#/privacy') {
+    const handlePopState = () => {
+      const path = window.location.pathname;
+      if (path === '/privacy') {
         setCurrentView('privacy');
         window.scrollTo(0, 0);
-      } else if (hash === '#/terms') {
+      } else if (path === '/terms') {
         setCurrentView('terms');
         window.scrollTo(0, 0);
-      } else if (hash === '#/support') {
+      } else if (path === '/support') {
         setCurrentView('support');
         window.scrollTo(0, 0);
       } else {
@@ -36,11 +36,17 @@ export default function App() {
       }
     };
 
-    window.addEventListener('hashchange', handleHashChange);
-    handleHashChange();
+    window.addEventListener('popstate', handlePopState);
+    handlePopState();
 
-    return () => window.removeEventListener('hashchange', handleHashChange);
+    return () => window.removeEventListener('popstate', handlePopState);
   }, []);
+
+  const navigate = (path: string, e?: React.MouseEvent) => {
+    if (e) e.preventDefault();
+    window.history.pushState({}, '', path);
+    window.dispatchEvent(new PopStateEvent('popstate'));
+  };
   const [lang, setLang] = useState<string>('en'); // default to turkish since user prompt is Turkish
   const [activeZodiac, setActiveZodiac] = useState<ZodiacSign>(ZODIACS[7]); // Default to Scorpio ♏
   const [activeTrack, setActiveTrack] = useState<SoundTrack>(TRACKS[0]); // Default to Obsidian Focus
@@ -746,11 +752,11 @@ export default function App() {
               </a>
               
               <nav className="flex flex-wrap justify-center gap-5 font-sans font-semibold text-[10.5px] tracking-wide text-mystic-text-muted/80">
-                <a className="hover:text-celestial-gold transition-colors block duration-200" href="/#features">Features</a>
-                <a className="hover:text-celestial-gold transition-colors block duration-200" href="/#testimonials">Reviews</a>
-                <a className="hover:text-celestial-gold transition-colors block duration-200" href="#/privacy">Privacy & Policy</a>
-                <a className="hover:text-celestial-gold transition-colors block duration-200" href="#/terms">Terms of Service</a>
-                <a className="hover:text-celestial-gold transition-colors block duration-200" href="#/support">{t.support}</a>
+                <a className="hover:text-celestial-gold transition-colors block duration-200" href="/" onClick={(e) => navigate('/', e)}>Features</a>
+                <a className="hover:text-celestial-gold transition-colors block duration-200" href="/" onClick={(e) => navigate('/', e)}>Reviews</a>
+                <a className="hover:text-celestial-gold transition-colors block duration-200" href="/privacy" onClick={(e) => navigate('/privacy', e)}>Privacy & Policy</a>
+                <a className="hover:text-celestial-gold transition-colors block duration-200" href="/terms" onClick={(e) => navigate('/terms', e)}>Terms of Service</a>
+                <a className="hover:text-celestial-gold transition-colors block duration-200" href="/support" onClick={(e) => navigate('/support', e)}>{t.support}</a>
               </nav>
               
               <div className="font-sans text-[9.5px] text-mystic-text-muted/40 tracking-wider">
@@ -776,11 +782,11 @@ export default function App() {
             </a>
             
             <nav className="flex flex-wrap justify-center gap-5 font-sans font-semibold text-[10.5px] tracking-wide text-mystic-text-muted/80">
-              <a className="hover:text-celestial-gold transition-colors block duration-200" href="/#features">Features</a>
-              <a className="hover:text-celestial-gold transition-colors block duration-200" href="/#testimonials">Reviews</a>
-              <a className="hover:text-celestial-gold transition-colors block duration-200" href="#/privacy">Privacy & Policy</a>
-              <a className="hover:text-celestial-gold transition-colors block duration-200" href="#/terms">Terms of Service</a>
-              <a className="hover:text-celestial-gold transition-colors block duration-200" href="#/support">{t.support}</a>
+              <a className="hover:text-celestial-gold transition-colors block duration-200" href="/" onClick={(e) => navigate('/', e)}>Features</a>
+              <a className="hover:text-celestial-gold transition-colors block duration-200" href="/" onClick={(e) => navigate('/', e)}>Reviews</a>
+              <a className="hover:text-celestial-gold transition-colors block duration-200" href="/privacy" onClick={(e) => navigate('/privacy', e)}>Privacy & Policy</a>
+              <a className="hover:text-celestial-gold transition-colors block duration-200" href="/terms" onClick={(e) => navigate('/terms', e)}>Terms of Service</a>
+              <a className="hover:text-celestial-gold transition-colors block duration-200" href="/support" onClick={(e) => navigate('/support', e)}>{t.support}</a>
             </nav>
             
             <div className="font-sans text-[9.5px] text-mystic-text-muted/40 tracking-wider">
