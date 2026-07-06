@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Space+Grotesk:wght@300..700&display=swap');
+@import "tailwindcss";
+
+/* Use class-based dark mode (.dark on <html>) instead of media query */
+@variant dark (&:where(.dark, .dark *));
+
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "EB Garamond", serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-button: "DM Sans", sans-serif;
+
+  --color-celestial-gold: var(--celestial-gold);
+  --color-celestial-gold-dark: var(--celestial-gold-dark);
+  --color-mystic-dark: var(--mystic-dark);
+  --color-mystic-surface: var(--mystic-surface);
+  --color-mystic-surface-high: var(--mystic-surface-high);
+  --color-mystic-surface-highest: var(--mystic-surface-highest);
+  --color-mystic-text: var(--mystic-text);
+  --color-mystic-text-muted: var(--mystic-text-muted);
+  --color-celestial-outline: var(--celestial-outline);
+
+  --color-mystic-lavender: #c8bfff;
+  --color-mystic-ice: #b9c4ff;
+}
+
+:root {
+  --bg: #16130d;
+  --celestial-gold: #e6c364;
+  --celestial-gold-dark: #c9a84c;
+  --mystic-dark: #16130d;
+  --mystic-surface: #1e1b15;
+  --mystic-surface-high: #2d2a23;
+  --mystic-surface-highest: #38342d;
+  --mystic-text: #e9e1d7;
+  --mystic-text-muted: #d0c5b2;
+  --celestial-outline: rgba(230, 195, 100, 0.15);
+}
+
+.light, html.light {
+  --bg: #fbf9f5; /* Surface */
+  --mystic-dark: #fbf9f5; /* Surface */
+  --mystic-surface: #f5f3ef; /* Surface Container Low */
+  --mystic-surface-high: #dbdad6; /* Surface Dim */
+  --mystic-surface-highest: #fbf9f5; /* Surface Bright */
+  
+  --celestial-gold: #c9a84c; /* Primary (bronz/altın sarısı) */
+  --celestial-gold-dark: #817867; /* Outline */
+  --celestial-outline: #817867; /* Outline */
+  
+  --mystic-text: #1e1b15; /* On Surface (koyu kahve/siyah) */
+  --mystic-text-muted: #615b4f; /* Okunabilir ve yüksek kontrastlı sekonder metin */
+}
+
+@keyframes rise {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-3px); }
+  100% { transform: translateY(0); }
+}
+
+@keyframes pulse-slow {
+  0%, 100% { transform: scale(0.96); opacity: 0.8; }
+  50% { transform: scale(1.04); opacity: 1; }
+}
+
+@keyframes ripple-slow {
+  0% { width: 40px; height: 40px; opacity: 1; }
+  100% { width: 220px; height: 220px; opacity: 0; }
+}
+
+.animate-rise {
+  animation: rise 5s ease-in-out infinite;
+}
+
+.animate-pulse-slow {
+  animation: pulse-slow 3s ease-in-out infinite;
+}
+
+.animate-ripple {
+  animation: ripple-slow 4s infinite ease-out;
+}
+
+html, body, #root {
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+/* Custom Astro-Gold themed scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--mystic-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--celestial-gold-dark);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--celestial-gold);
+}
+
+/* Custom scrollbar utility for inner dropdowns */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(12, 9, 6, 0.5);
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(230, 195, 100, 0.3);
+  border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(230, 195, 100, 0.6);
+}
+
+/* Glassmorphism Cards */
+.glass-card {
+  background: rgba(30, 27, 21, 0.45);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(230, 195, 100, 0.15);
+}
+
+.light .glass-card {
+  background: rgba(245, 243, 239, 0.65);
+  border: 1px solid rgba(129, 120, 103, 0.25);
+}
+
+/* Astrological slow spin animation */
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 40s linear infinite;
+}
+
+/* Celestial Glow Effect */
+.celestial-glow {
+  box-shadow: 0 0 25px rgba(230, 195, 100, 0.15);
+  transition: box-shadow 0.3s ease;
+}
+
+.celestial-glow:hover {
+  box-shadow: 0 0 35px rgba(230, 195, 100, 0.3);
+}
+
+/* Scroll Snapping */
+.scroll-container {
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.snap-section {
+  scroll-snap-align: start;
+  scroll-margin-top: 88px;
+  min-height: calc(100vh - 88px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media (min-width: 768px) {
+  .snap-section {
+    scroll-margin-top: 96px;
+    min-height: calc(100vh - 96px);
+  }
+}
+
+@media (min-width: 1024px) {
+  .snap-section {
+    scroll-margin-top: 104px;
+    min-height: calc(100vh - 104px);
+  }
+}
+
+.scroll-container-no-snap {
+  scroll-behavior: smooth;
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.snap-footer {
+  scroll-snap-align: end;
+}
+
+/* Infinite Marquee Animations */
+@keyframes marqueeLeft {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes marqueeRight {
+  0% { transform: translateX(-50%); }
+  100% { transform: translateX(0); }
+}
+
+.animate-marquee-left {
+  display: flex;
+  width: max-content;
+  gap: 1.5rem;
+  animation: marqueeLeft 40s linear infinite;
+}
+
+.animate-marquee-right {
+  display: flex;
+  width: max-content;
+  gap: 1.5rem;
+  animation: marqueeRight 40s linear infinite;
+}
+
+.animate-marquee-left:hover,
+.animate-marquee-right:hover {
+  animation-play-state: paused;
+}
+

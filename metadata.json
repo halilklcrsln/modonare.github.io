@@ -1,0 +1,6 @@
+{
+  "name": "Modonare",
+  "description": "Astro-Acoustic Wellness application mapping celestial profiles to healing frequency soundscapes",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
